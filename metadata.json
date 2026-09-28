@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Cloud — Cloud-Native Sustainable Cities",
+  "description": "Scalable, smart, and resilient cloud-native infrastructure engineered for zero-carbon workloads, closed-loop cooling, and autonomous mesh orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
